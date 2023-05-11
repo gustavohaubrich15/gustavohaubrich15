@@ -3,7 +3,7 @@
 Desenvolvedor FullStack
 -----------------------------
 
-Sou desenvolvedor e programo desde os meus 18 anos. Eu gosto de resolver problemas e criar soluções usando tecnologia. Foco tanto no aprednizado com o frontend quanto o backend. 
+Sou desenvolvedor e programo desde os meus 18 anos. Eu gosto de resolver problemas e criar soluções usando tecnologia. Foco tanto no aprendizado com o frontend quanto o backend. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohaubrich15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
